@@ -1,0 +1,50 @@
+.sevas-container {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  .sevas-container h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .sevas-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .seva-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    padding: 15px 0;
+  }
+  
+  .seva-item:last-child {
+    border-bottom: none;
+  }
+  
+  .seva-details h3 {
+    margin: 0;
+    font-size: 18px;
+    color: #444;
+  }
+  
+  .seva-details p {
+    margin: 5px 0;
+    color: #666;
+  }
+  
+  .seva-price p {
+    margin: 0;
+    font-size: 16px;
+    font-weight: bold;
+    color: #444;
+  }
+  

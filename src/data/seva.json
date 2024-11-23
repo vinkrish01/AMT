@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Kumkum Archana",
+      "description": "Including Shri Prasadam",
+      "days": "All days",
+      "price": "60 INR"
+    },
+    {
+      "name": "Panchamrutha Abhisheka",
+      "description": "",
+      "days": "All days",
+      "price": "30 INR"
+    },
+    {
+      "name": "Rice Donation for Annadana",
+      "description": "Per KG",
+      "days": "",
+      "price": "30 INR"
+    }
+  ]
